@@ -1,13 +1,5 @@
 #  Company    : Stevens 
-#  Project    : R Homework 3 
 #  Purpose    : KNN classification of the data
-#  First Name	: Aman
-#  Last Name	: Pawar
-#  Id			    : 10477801
-#  Date       : March 1, 2022
-#  Comments   : Homework Assignment 3 submission
-
-
 
 rm(list=ls())
 
