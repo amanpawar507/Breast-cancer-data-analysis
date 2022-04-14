@@ -1,4 +1,5 @@
 #  Company    : Stevens 
+<<<<<<< HEAD
 #  Project    : R Homework 3 
 #  Purpose    : KNN classification of the data
 #  First Name	: Aman
@@ -8,6 +9,9 @@
 #  Comments   : Homework Assignment 3 submission
 
 
+=======
+#  Purpose    : KNN classification of the data
+>>>>>>> 2f4c02db6c03310df0dbe0da117331ffe92db4f3
 
 rm(list=ls())
 
